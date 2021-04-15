@@ -3,7 +3,7 @@
       "features": [{
           "type": "Feature",
           "properties": {
-            "text": "Só um teste. Só um teste."
+            "text": "Só um teste. Só dois testes."
           },
           "geometry": {
             "type": "Point",
