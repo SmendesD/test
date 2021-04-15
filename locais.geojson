@@ -3,14 +3,27 @@
       "features": [{
           "type": "Feature",
           "properties": {
-            "text": "Só um teste. Só dois testes."
+            "text": "Só um teste."
           },
           "geometry": {
             "type": "Point",
             "coordinates": [
               -8.421707153320312,
               40.213489431905735
-             ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "text": "Qualquer coisa."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -9.134445190429688,
+              38.710160941206645
+            ]
           }
         },
         {
@@ -28,4 +41,3 @@
         }
       ]
     }
-
