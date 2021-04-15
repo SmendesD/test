@@ -10,21 +10,22 @@
             "coordinates": [
               -8.421707153320312,
               40.213489431905735
-            ]
+             ]
           }
         },
         {
           "type": "Feature",
           "properties": {
-            "text": "Qualquer coisa."
+            "text": "TESTtestetstetst."
           },
           "geometry": {
             "type": "Point",
             "coordinates": [
-              -9.134445190429688,
-              38.710160941206645
+              -8.446018695831299,
+              40.241585635241194
             ]
           }
         }
       ]
     }
+
