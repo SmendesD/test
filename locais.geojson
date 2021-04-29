@@ -29,7 +29,7 @@
        {"type": "Feature",
           "properties": {
            "text": "Nome do Autor: João Mendes <br> Data: 27/03/2021 <br> Hora: 11:30 <br> Localização: Rossio, Lisboa <br> Equipamento: Telemóvel <br> Categorias: Voz e Ruído",
-	   "text": "<p><audio width='300' height='32' src='https://drive.google.com/file/d/1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z/view' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>"
+	   "audio": "<p><audio width='300' height='32' src='https://drive.google.com/file/d/1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z/view' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>"
 		},
           "geometry": {
             "type": "Point",
