@@ -29,7 +29,7 @@
        {"type": "Feature",
           "properties": {
            "text": "Nome do Autor: João Mendes <br> Data: 27/03/2021 <br> Hora: 11:30 <br> Localização: Rossio, Lisboa <br> Equipamento: Telemóvel <br> Categorias: Sons de humanos > Voz e Ambiente e Plano de fundo > Ruído",
-	   "audio": "<p> <iframe  frameborder='0' width='500' height='100' src='https://drive.google.com/file/d/1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z/preview?usp=sharing'></iframe>"
+	   "audio": "<p> <iframe   width='300' height='100' marginheight='0' marginwidth='0'   src='https://drive.google.com/file/d/1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z/preview?usp=sharing'></iframe>"
 	  
 		},
           "geometry": {
