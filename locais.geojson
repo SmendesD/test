@@ -28,7 +28,7 @@
         },
        {"type": "Feature",
           "properties": {
-           "text": "Nome do Autor: João Mendes <br> Data: 27/03/2021 <br> Hora: 11:30 <br> Localização: Rossio, Lisboa <br> Equipamento: Telemóvel <br> Categorias: Sons de humanos > Voz e Ambiente e Plano de fundo > Ruído",
+           "text": "Nome Autor: João Mendes <br> Data: 27/03/2021 <br> Hora: 11:30 <br> Localização: Rossio, Lisboa <br> Equipamento: Telemóvel <br> Categorias: Sons de humanos > Voz e Ambiente e Plano de fundo > Ruído",
 	  
 	  "audio": "<p><audio controls><source src='https://www.computerhope.com/jargon/m/example.mp3'></audio>"
 		},
