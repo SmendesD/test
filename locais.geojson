@@ -21,8 +21,8 @@
           "geometry": {
             "type": "Point",
             "coordinates": [
-              -9.139673270392452,
-              38.710160941206645
+              -9.238417050173897,
+              38.75962285659221
             ]
           }
         },
@@ -41,6 +41,71 @@
           }
         },
         {
+	"type": "Feature",
+          "properties": {
+            "text": "Qualquer coisa2.", "audio": " <audio controls='controls' autoplay> <source src='https://docs.google.com/uc?export=download&id=19ZWiLKfjD3BrjjWIMwzXER8SIwl5G5-1'></audio>"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -9.248806028271588,
+              38.75921784876612
+            ]
+          }
+        },
+       {
+	       "type": "Feature",
+          "properties": {
+            "text": "Qualquer coisa3.", "audio": " <audio controls='controls' autoplay> <source src='https://docs.google.com/uc?export=download&id=1brLoI0YhjvwcRAGXbOvdAnW16d_ZnMNr'></audio>"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                 -9.136932851951752,
+              38.70878214939173
+            ]
+          }
+        },
+       {
+	   "type": "Feature",
+          "properties": {
+            "text": "Qualquer coisa4.", "audio": " <audio controls='controls' autoplay> <source src='https://docs.google.com/uc?export=download&id=1TBw5awj9NsajupKqeTPh0j9Jr8jfAHjy'></audio>"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                 -9.148886322474276,
+              38.7444609981853
+            ]
+          }
+        },
+       {
+	 "type": "Feature",
+          "properties": {
+            "text": "Qualquer coisa5.", "audio": " <audio controls='controls' autoplay> <source src='https://docs.google.com/uc?export=download&id=1-B3ZPdM5993ZZiOjOQ-idSzIR0ASSAha'></audio>"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                 -9.148167465806832,
+              38.745582265035786
+            ]
+          }
+        },
+       {
+	        "type": "Feature",
+          "properties": {
+            "text": "Qualquer coisa6.", "audio": " <audio controls='controls' autoplay> <source src='https://docs.google.com/uc?export=download&id=1mvwWBxEMqbqTJ1k2DvlQTtBfh0B-p5fC'></audio>"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -9.23658786768818,
+              38.75914088337945
+            ]
+          }
+        },
+       {
           "type": "Feature",
           "properties": {
             "text": "TESTtestetstetst."
