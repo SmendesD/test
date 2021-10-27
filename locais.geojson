@@ -5,6 +5,232 @@
           {
          "type": "Feature",
       "properties": {
+           "Nome": "Alexandra Oliveira",
+    "Data": "2020/02/17",
+    "Tempo": "17:46",
+    "Local": "Polo II, Coimbra",
+    "Coordenadas": "40.185413, -8.415483",
+    "Equipamento": "Telemóvel",
+    "Categorias": "Sons de humanos > Voz, Ambiente e Plano de fundo > Ambiente acústico > Interior",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1XNtAJM3RuwnzqRSlFv6tASsMZNrYTBUM'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.415483,
+          40.185413
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Alexandra Oliveira",
+    "Data": "2021/03/08",
+    "Tempo": "10:04",
+    "Local": "Rua dos Combatentes da Grande Guerra, Coimbra",
+    "Coordenadas": "40.203600, -8.415303",
+    "Equipamento": "Telemóvel",
+    "Categorias": "Sons de animais > Animais domésticos,<br> Sons de animais > Animais selvagens",
+    "Comentário": "Esta gravei agora... o som dos pássaros aumentou *imenso* com a pandemia. ---- Não encontrei gravações da Rua dos Combatentes pré pandemia, onde todas as terças e quintas à noite a \"paisagem sonora\" era muito interessante (estudantes bêbados a fazer o caminho de volta a casa, a chorar, a rir, a gritar, a cantar, a discutir, a dar pontapés em objetos etc...). As noites nos combatentes são agora de muita paz, e confesso que tenho saudades de ir à varanda às 4 da manhã e divertir-me com a alegria/estupidez dos outros. Entretanto se encontrar gravações pre covid envio, e gravo também o \"agora\". Engraçado como neste momento é impossível gravar um som que há coisa de um ano atrás era \"certinho\" que podia gravar quando me apetecesse. Espero que as gravações sejam úteis, e boa sorte para o projeto!",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1_At7C7tW296_LoXpvvD4wYaKxONgHQIz'></audio>",
+    "Sons de humanos": "0",
+    "Sons de animais": "1",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -8.415303,
+          40.203600
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Carlos Carraco mendes",
+    "Data": "2021/03/08",
+    "Tempo": "18h",
+    "Local": "Rua 1º de maio . Pedrulha",
+    "Coordenadas": "",
+    "Equipamento": "Telemóvel",
+    "Categorias": "Sons de animais > Animais selvagens,<br> Sons naturais > Vento,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1wAM7cBeoqFa2_jW8y99osNjoGD8kvI61'></audio>",
+    "Sons de humanos": "0",
+    "Sons de animais": "1",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "1",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+              -8.446355150260365,
+              40.24145529234355
+                
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Carlos c Mendes",
+    "Data": "2021/03/21",
+    "Tempo": "20h",
+    "Local": "Rua 1ºde maio, lote 2",
+    "Coordenadas": "40.24170,-8.446346",
+    "Equipamento": "Telemóvel",
+    "Categorias": "Sons de humanos > Ações,<br> Sons de objetos > Fontes diversas",
+    "Comentário": "Persiana a fechar",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=18ShNzeeGJCwBoUy92HQzMntwOoQIhnB6'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "1",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.446346,
+          40.24170
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "João Mendes",
+    "Data": "2021/03/07",
+    "Tempo": "15:32",
+    "Local": "Rua Alice Leite, Amadora",
+    "Coordenadas": "38.75921784876612, -9.248806028271588",
+    "Equipamento": "telemóvel",
+    "Categorias": "Sons de animais > Animais selvagens",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1ZRtdhPzu2qYBYuIIAh7gpMmMTWuRp7qd'></audio>",
+    "Sons de humanos": "0",
+    "Sons de animais": "1",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.24878956367553,
+            38.759224954816204
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+
+    "Nome": "Joao Mendes",
+    "Data": "2021/03/07",
+    "Tempo": "15:35",
+    "Local": "Rua alice Leite, Amadora",
+    "Coordenadas": "38.75921784876612, -9.248806028271588",
+    "Equipamento": "telemóvel",
+    "Categorias": "Sons de animais > Animais selvagens,<br> Sons de objetos > Veículos",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=19ZWiLKfjD3BrjjWIMwzXER8SIwl5G5-1'></audio>",
+    "Sons de humanos": "0",
+    "Sons de animais": "1",
+    "Música": "0",
+    "Sons de objetos": "1",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -9.248806028271588,
+           38.75921784876612
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Joao Mendes",
+    "Data": "2021/03/23",
+    "Tempo": "19:00",
+    "Local": "Rua Elias Garcia - Estação Amadora",
+    "Coordenadas": "38.75962285659221, -9.238417050173897",
+    "Equipamento": "Telemóvel",
+    "Categorias": "Sons de objetos > Veículos",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1IaEBJA1wJhTW_ZMMu298CIbaYyij6dyV'></audio>",
+    "Sons de humanos": "0",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "1",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.238417050173897,
+          38.75962285659221
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Joao Mendes",
+    "Data": "2021/03/24",
+    "Tempo": "18:30",
+    "Local": "Estação Entrecampos",
+    "Coordenadas": "38.7444609981853, -9.148886322474276",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de objetos > Veículos",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1brLoI0YhjvwcRAGXbOvdAnW16d_ZnMNr'></audio>",
+    "Sons de humanos": "0",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "1",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -9.148886322474276,
+           38.7444609981853
+            ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
    "Nome": "joao mendes",
     "Data": "2021/03/27",
     "Tempo": "11:45",
