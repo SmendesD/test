@@ -5,8 +5,286 @@
           {
          "type": "Feature",
       "properties": {
-   
-
+   "Nome": "joao mendes",
+    "Data": "2021/03/27",
+    "Tempo": "11:45",
+    "Local": "Rua Augusta, Lisboa",
+    "Coordenadas": "38.70878214939173, -9.136932851951752",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de humanos > Voz,<br> Sons de objetos > Veículos",
+    "Comentário": "elétrico de Lisboa",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1TBw5awj9NsajupKqeTPh0j9Jr8jfAHjy'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "1",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -9.136932851951752,
+            38.70878214939173
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "joao mendes",
+    "Data": "2021/03/24",
+    "Tempo": "18:35",
+    "Local": "Metro Entrecampos, Lisboa",
+    "Coordenadas": "38.745582265035786, -9.148167465806832",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de humanos > Voz,<br> Sons de humanos > Ações",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1-B3ZPdM5993ZZiOjOQ-idSzIR0ASSAha'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.148167465806832,
+            38.745582265035786
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "joao mendes",
+    "Data": "2021/03/23",
+    "Tempo": "18:56",
+    "Local": "Estação Amadora, Rua Elias Garcia, Amadora",
+    "Coordenadas": "38.75914088337945, -9.23658786768818",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de animais > Animais domésticos,<br> Sons de objetos > Veículos,<br> Sons naturais > Vento",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1mvwWBxEMqbqTJ1k2DvlQTtBfh0B-p5fC'></audio>",
+    "Sons de humanos": "0",
+    "Sons de animais": "1",
+    "Música": "0",
+    "Sons de objetos": "1",
+    "Sons naturais": "1",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -9.23658786768818,
+            38.75914088337945
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "joao mendes",
+    "Data": "2021/03/25",
+    "Tempo": "8:43",
+    "Local": "Estação Entrecampos, lisboa",
+    "Coordenadas": "38.744435479045144, -9.148809678555269",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de humanos > Ações",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1zqcMoRS0_NjlDAoXrH1dJpC-TJj9l73d'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -9.148809678555269,
+            38.744435479045144
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "joao mendes",
+    "Data": "2021/03/23",
+    "Tempo": "19:02",
+    "Local": "Estação Amadora",
+    "Coordenadas": "38.759614603009574, -9.23640237387793",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de humanos > Voz,<br> Sons de humanos > Ações,<br> Sons de objetos > Veículos",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1OQqu8Gav_dviRWhMmVPWyrdCJD-Sv4G8'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "1",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.23640237387793,
+            38.759614603009574
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "joao mendes",
+    "Data": "2021/03/22",
+    "Tempo": "9:00",
+    "Local": "Av. Fontes Pereira de Melo, Lisboa",
+    "Coordenadas": "38.73105531679694, -9.146904166891098",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de objetos > Veículos,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano,<br> Ambiente e Plano de fundo > Ruído",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1RbO2gzVUb8QMo0UtZUx8IyBj5n3KFG3y'></audio>",
+    "Sons de humanos": "0",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "1",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.146794250057765,
+           38.73100723845409
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "joao mendes",
+    "Data": "2021/03/23",
+    "Tempo": "9:00",
+    "Local": "Av. Fontes Pereira de Melo, Lisboa",
+    "Coordenadas": "38.73105531679694, -9.146904166891098",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de objetos > Veículos,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano,<br> Ambiente e Plano de fundo > Ruído",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1vTBUAr2isly8NxISTYNQAbSgzlpawPge'></audio>",
+    "Sons de humanos": "0",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "1",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -9.146904166891098,
+             38.73105531679694
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "joao mendes",
+    "Data": "2021/03/27",
+    "Tempo": "11:30",
+    "Local": "Rossio, Lisboa",
+    "Coordenadas": "38.71403085592836, -9.139673270392452",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de humanos > Voz,<br> Ambiente e Plano de fundo > Ruído",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -9.139673270392452,
+            38.71403085592836
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "C c ",
+    "Data": "2021/04/04",
+    "Tempo": "+/-10h",
+    "Local": "Largo da se nova - Coimbra",
+    "Coordenadas": "",
+    "Equipamento": "Telemovel",
+    "Categorias": "Sons naturais > Vento,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1SJb6rqZQau13AcehZTdiASy80mDuhWl7'></audio>",
+    "Sons de humanos": "0",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "1",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -8.424140747150211,
+             40.20898284314822
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "C c ",
+    "Data": "2021/04/04",
+    "Tempo": "10h",
+    "Local": "Largo da sé Nova . Coimbra",
+    "Coordenadas": "",
+    "Equipamento": "Telemóvel Xiaomi redmio",
+    "Categorias": "Sons naturais > Vento,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1r0UXbYyNVmLlG3-I7NOs08zqE1PHGcub'></audio>",
+    "Sons de humanos": "0",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "1",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -8.424243442446118,
+           40.208948357554576
+  ]
+      }
+    },
+      {
+          "type": "Feature",
+      "properties": {
 "Nome": "C c",
     "Data": "2021/04/04",
     "Tempo": "10:00",
